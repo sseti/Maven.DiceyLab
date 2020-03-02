@@ -8,7 +8,6 @@ public class Dice {
     private static final Logger logger = Logger.getLogger(Dice.class.getName());
 
     public Dice(int numOfDice) {
-        //logger.log(Level.INFO, faceValue + "");
         this.numberOfDice = numOfDice;
     }
 
